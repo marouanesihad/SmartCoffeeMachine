@@ -1,7 +1,7 @@
 <h1>Smart Coffee Machine Project</h1>
 <h3>Overview</h3>
 <p>
-  Smart Coffee Machine app to interact with physical coffee machine let users do some actions as switch on or off the machine make coffee the app display and save all the cups that were made for using the data in further improvement.
+  Smart Coffee Machine app to interact with physical coffee machine let users do some actions as switch on or off and display status and alerts. The machine make coffee the app display and save all the cups that were made in database for using the data in further improvement.
   The App uses the stack:
   <ul>
     <li>Backend</li>
