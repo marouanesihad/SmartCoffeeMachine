@@ -1,0 +1,6 @@
+@SmartCoffeeMachine.Server_HostAddress = https://localhost:5238
+
+GET {{SmartCoffeeMachine.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
